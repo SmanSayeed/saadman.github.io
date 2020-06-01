@@ -10149,3 +10149,11 @@ section.resume-section .resume-section-content {
   margin-top: 15px;
   margin-bottom: 15px;
 }
+
+/* my responsive */
+
+@media (min-width:1024px) {
+  img#optionalstuff {
+    display: none;
+  }
+}
